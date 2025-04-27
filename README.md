@@ -1,5 +1,7 @@
 # HealthInsight
 
+Video Presentation- https://youtu.be/P7NBzCvM96A
+
 HealthInsight is a Streamlit-based web application designed to help users understand their medical reports. Users can upload medical reports in PDF, DOCX, TXT, or XML formats, view extracted text, receive an automated analysis, and ask specific questions about their reports. The application leverages the Groq API for natural language processing and medical report analysis.
 
 ## Features
