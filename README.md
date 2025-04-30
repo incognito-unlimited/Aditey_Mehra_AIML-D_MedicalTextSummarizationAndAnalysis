@@ -2,6 +2,10 @@
 
 Video Presentation- https://youtu.be/P7NBzCvM96A
 
+Project Title- Medical Text Summarization and Analysis
+
+Team Members- Aditey Mehra (2301730266) and Jayant Parashar (2301730250)
+
 HealthInsight is a Streamlit-based web application designed to help users understand their medical reports. Users can upload medical reports in PDF, DOCX, TXT, or XML formats, view extracted text, receive an automated analysis, and ask specific questions about their reports. The application leverages the Groq API for natural language processing and medical report analysis.
 
 ## Features
